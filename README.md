@@ -1,5 +1,4 @@
-#cpe357
-https://github.com/sonianara
+#MyDu
 
 ### An implementation of the UNIX command "du" in C
 
